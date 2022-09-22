@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+== Yiren Lu 
+
+~~~
+{}{img_left}{photo.jpeg}{alt text}{160}{213}{http://luyr.github.io}
+=== Education
+B.Eng. in Computer Science,\n [http://sist.shanghaitech.edu.cn/ School of Information Science and Technology (SIST)], \n[https://www.shanghaitech.edu.cn/eng/ ShanghaiTech University]\n
+=== Contact
+Phone: \+86 18021079200 \n
+Email: \luyr0615 at gmail dot com\n
+~~~
+
+== About me
+I received the B.Eng. degree in computer science from School of Information Science and Technology ([http://sist.shanghaitech.edu.cn/ SIST]), [https://www.shanghaitech.edu.cn/eng/ ShanghaiTech University] in 2021.\n
+And recently I have been a computer vision algorithm intern in Tencent, Shenzhen.
+
+== Research
+My research interests include 
+- Computer Vision  
+- Natural Language Processing 
+- Human-Robot Interaction
+
+== Publications 
+- J. Cai, J. Hou, *Yiren Lu*, H. Chen, L. Kneip and S. Schwertfeger, "Improving CNN-based Planar Object Detection with Geometric Prior Knowledge",\n 
+2020 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), 2020, pp. 387-393.
+
+== Technical Skills
+Programming Lauguage: Python, C++, C, Rust, R.\n
+Computer Vision: OpenCV, PCL, Open3D, ffmpeg.\n
+ML/DL: PyTorch, TensorFlow, SKlearn, Pandas, NumPy, SciPy.\n
+Robotics: ROS, Gazebo, Rviz.\n
+Natural Language Processing: Jieba, BoW, NLTK.\n
